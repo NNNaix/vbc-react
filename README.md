@@ -1,5 +1,5 @@
-# virtual-community-react
-
+# virtual-brand-community-react
+为摄影爱好者提供的虚拟品牌社区
 
 # 技术栈
 
